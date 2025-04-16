@@ -32,8 +32,8 @@ A simple React + Solana Web3 app that allows users to connect their wallet and c
 
 1. Clone the repo:
 
-   git clone https://github.com/your-username/solana-token-creator.git
-   cd solana-token-creator
+   git clone https://github.com/mamta-vyas/solana-token-ui.git
+   cd solana-token-ui
 
 
 Install dependencies:
